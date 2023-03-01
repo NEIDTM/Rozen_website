@@ -146,6 +146,7 @@ body {
 
 .Logo_vk_button {
     margin: 0px 30px 50px;
+    transition: 0.3s;
 }
 
 .Logo_mail_button {
@@ -158,4 +159,18 @@ body {
 
 .Contact_header {
     font-size: 30px;
+}
+
+.Bckbuttons {
+    color: none;
+}
+
+.Bckbuttons a:hover {
+    color: brown;
+    transition: 0.3s;
+}
+
+footer {
+    background-color: black;
+    height: 10vh;
 }
