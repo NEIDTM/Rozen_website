@@ -31,3 +31,15 @@
 body {
     background-color: rgb(18, 18, 18);
 }
+
+.Logo_vk_button img {
+    width: 75px;
+}
+
+.Logo_mail_button img {
+    width: 75px;
+}
+
+.Logo_telegram_button img {
+    width: 75px;
+}
