@@ -132,3 +132,24 @@ body {
     width: 50%;
     margin-bottom: 50px;
 }
+
+.Contacts {
+    display: flex;
+    justify-content: center;
+}
+
+.Contacts a {
+    justify-content: space-around;
+}
+
+.Logo_vk_button {
+    margin: 0px 0px 50px;
+}
+
+.Logo_mail_button {
+    margin: 0px 0px 50px;
+}
+
+.Logo_telegram_button {
+    margin: 0px 0px 50px;
+}
