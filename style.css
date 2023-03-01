@@ -16,6 +16,10 @@
     font-family: KadwaRegular;
 }
 
+.Beats_H {
+    font-family: KadwaBold;
+}
+
 .RLogo {
     font-family: KadwaBold;
 }
@@ -42,4 +46,16 @@ body {
 
 .Logo_telegram_button img {
     width: 75px;
+}
+
+.Contact_header h1 {
+    font-family: KadwaBold;
+}
+
+.Beats_header {
+    font-family: KadwaBold;
+}
+
+.Musics {
+    font-family: KadwaRegular;
 }
