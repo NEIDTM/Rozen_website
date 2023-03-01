@@ -134,22 +134,28 @@ body {
 }
 
 .Contacts {
-    display: flex;
-    justify-content: center;
+    display: grid;
+    place-items: center;
 }
 
-.Contacts a {
+.Logos {
+    display: flex;
+    align-items: center;
     justify-content: space-around;
 }
 
 .Logo_vk_button {
-    margin: 0px 0px 50px;
+    margin: 0px 30px 50px;
 }
 
 .Logo_mail_button {
-    margin: 0px 0px 50px;
+    margin: 0px 30px 50px;
 }
 
 .Logo_telegram_button {
-    margin: 0px 0px 50px;
+    margin: 0px 30px 50px;
+}
+
+.Contact_header {
+    font-size: 30px;
 }
