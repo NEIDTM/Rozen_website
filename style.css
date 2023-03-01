@@ -1,0 +1,19 @@
+@font-face {
+    font-family: KadwaBold;
+    src: url(./Fonts/Kadwa-Bold.ttf);
+}
+
+@font-face {
+    font-family: KadwaRegular;
+    src: url(./Fonts/Kadwa-Regular.ttf);
+}
+
+
+.RLogo {
+    color: rgb(230, 230, 230);
+    font-family: KadwaBold;
+}
+
+body {
+    background-color: rgb(18, 18, 18);
+}
