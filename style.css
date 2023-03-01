@@ -14,10 +14,20 @@
     scroll-behavior: smooth;
 }
 
+.Upbuttons {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    display: fixed;
+    padding-bottom: 30px;
+}
+
 .Bckbuttons {
     font-family: KadwaRegular;
     font-size: 20px;
-    display: flex;
+    padding: 0px 40px 0px;
+    margin: 0px 10px 0px;
+    justify-content: space-between;
 }
 
 .Beats_H {
