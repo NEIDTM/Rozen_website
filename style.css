@@ -8,6 +8,10 @@
     src: url(./Fonts/Kadwa-Regular.ttf);
 }
 
+::-webkit-scrollbar {
+    display: none;
+  }
+
 * {
     color: rgb(230, 230, 230);
     text-decoration: none;
@@ -19,7 +23,7 @@
     justify-content: space-between;
     align-items: center;
     display: fixed;
-    padding-bottom: 30px;
+    margin-bottom: 50px;
 }
 
 .Bckbuttons {
@@ -27,7 +31,13 @@
     font-size: 20px;
     padding: 0px 40px 0px;
     margin: 0px 10px 0px;
-    justify-content: space-between;
+    /* justify-content: space-between; */
+}
+
+.Bckbuttons a {
+    margin-left: 20px;
+    margin-right: 20px;
+    /* padding-top: 15px; */
 }
 
 .Beats_H {
@@ -38,7 +48,7 @@
     font-size: 12px;
     font-family: KadwaBold;
     padding-left: 30px;
-    padding-top: 15px;
+    /* padding-top: 15px; */
 }
 
 .Aboutus {
@@ -121,8 +131,4 @@ body {
 .Pizdec_audio audio {
     width: 50%;
     margin-bottom: 50px;
-}
-
-.Contacts {
-    align-items: center;
 }
