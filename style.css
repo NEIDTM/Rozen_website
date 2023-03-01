@@ -8,10 +8,24 @@
     src: url(./Fonts/Kadwa-Regular.ttf);
 }
 
+* {
+    color: rgb(230, 230, 230);
+}
+
+.Bckbuttons {
+    font-family: KadwaRegular;
+}
 
 .RLogo {
-    color: rgb(230, 230, 230);
     font-family: KadwaBold;
+}
+
+.Aboutus {
+    font-family: KadwaBold;
+}
+
+.Abouttext {
+    font-family: KadwaRegular;
 }
 
 body {
