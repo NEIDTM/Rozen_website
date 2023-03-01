@@ -11,12 +11,11 @@
 * {
     color: rgb(230, 230, 230);
     text-decoration: none;
-    margin: 0%;
 }
 
 .Bckbuttons {
     font-family: KadwaRegular;
-    text-align: right;
+    text-align: 3%;
 }
 
 .Beats_H {
@@ -24,8 +23,9 @@
 }
 
 .RLogo {
+    font-size: 50%;
     font-family: KadwaBold;
-    border: 123px green;
+    padding-left: 3%;
 }
 
 .Aboutus {
@@ -34,12 +34,20 @@
     font-family: KadwaBold;
 }
 
+.Aboutus h1 {
+    margin: 0%;
+}
+
 .Abouttext {
     font-family: KadwaRegular;
     margin: auto;
     width: 50%;
     text-align: center;
     padding: 10px;
+    margin-bottom: 8%;
+    font-size: 20px;
+    line-height: 30px;
+    margin-top: 0%;
 }
 
 body {
@@ -60,14 +68,42 @@ body {
 
 .Contact_header h1 {
     font-family: KadwaBold;
+    text-align: center;
 }
 
 .Beats_header {
     font-family: KadwaBold;
+    font-size: 30px;
 }
 
 .Musics {
     font-family: KadwaRegular;
+    text-align: center;
+    margin-bottom: 8%;
+}
+
+.Genesis_audio p {
+    font-size: 20px;
+}
+
+.Genesis_audio audio {
+    width: 50%;
+}
+
+.Hui_audio p {
+    font-size: 20px;
+}
+
+.Hui_audio audio {
+    width: 50%;
+}
+
+.Pizdec_audio p {
+    font-size: 20px;
+}
+
+.Pizdec_audio audio {
+    width: 50%;
 }
 
 .Contacs {
