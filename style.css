@@ -10,6 +10,7 @@
 
 * {
     color: rgb(230, 230, 230);
+    text-decoration: none;
 }
 
 .Bckbuttons {
@@ -25,6 +26,8 @@
 }
 
 .Aboutus {
+    font-size: 30px;
+    text-align: center;
     font-family: KadwaBold;
 }
 
