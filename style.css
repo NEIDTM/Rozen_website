@@ -10,9 +10,9 @@
 
 ::-webkit-scrollbar {
     display: none;
-  }
+}
 
-* {
+body {
     color: rgb(230, 230, 230);
     text-decoration: none;
     scroll-behavior: smooth;
